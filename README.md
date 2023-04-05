@@ -23,3 +23,5 @@ returns 404 error if build or task not found
 
 Docker command to run:
 docker run --rm -d -p 80:80 annagorbunova/builds
+
+run at 0.0.0.0:80
